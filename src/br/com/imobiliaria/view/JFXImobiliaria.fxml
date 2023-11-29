@@ -15,7 +15,7 @@
    </Label>
    <TextField fx:id="tfProprietario" layoutX="54.0" layoutY="111.0" prefHeight="25.0" prefWidth="269.0" />
    <TextField fx:id="tfCidade" layoutX="54.0" layoutY="188.0" prefHeight="25.0" prefWidth="269.0" />
-   <TextField fx:id="tfArea" layoutX="54.0" layoutY="278.0" prefHeight="25.0" prefWidth="269.0" />
+   <TextField fx:id="tfArea" editable="false" layoutX="54.0" layoutY="278.0" prefHeight="25.0" prefWidth="269.0" />
    <Label layoutX="54.0" layoutY="82.0" text="Proprietário">
       <font>
          <Font size="14.0" />
